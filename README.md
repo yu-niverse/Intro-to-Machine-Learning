@@ -1,4 +1,5 @@
 # Introduction to Machine Learning
+【 NYCU 2022 Fall Semester 】by Professor 林彥宇
 
 ### HW1 $~$ Linear Regression using Gradient Descent
 
