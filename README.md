@@ -1,6 +1,8 @@
 # Introduction to Machine Learning
 【 NYCU 2022 Fall Semester 】by Professor 林彥宇
 
+## Contents
+
 ### HW1 $~$ Linear Regression using Gradient Descent
 
 Implement linear regression by using only NumPy, then train implemented model using Gradient Descent by the provided dataset and test the performance with testing data. 
