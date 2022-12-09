@@ -1,31 +1,17 @@
 # Introduction to Machine Learning
 
-## HW1 Linear Regression using Gradient Descent
+### HW1 $~$ Linear Regression using Gradient Descent
 
-### Goals
-In this coding assignment, you need to implement linear regression by using only NumPy, then train your implemented model using Gradient Descent by the provided dataset and test the performance with testing data. 
+Implement linear regression by using only NumPy, then train implemented model using Gradient Descent by the provided dataset and test the performance with testing data. 
 
-Find the questions at [this document](https://docs.google.com/document/d/1kBR0tqYltq1YEoFiwem0Yzn_MYq5wNyzJG9LeURHDYE/edit?usp=sharing)
+### HW2 $~$ Linear Discriminant Analysis
 
-## HW2 Linear Discriminant Analysis, due date: Nov. 1, 23:59
+Implement [Fisher’s linear discriminant](https://en.wikipedia.org/wiki/Linear_discriminant_analysis) by using only numpy, then train the model by the provided dataset and test the performance with testing data
 
-### Goals
-In hw2, you need to implement [Fisher’s linear discriminant](https://en.wikipedia.org/wiki/Linear_discriminant_analysis) by using only numpy, then train your implemented model by the provided dataset and test the performance with testing data
+### HW3 $~$ Decision Tree, AdaBoost and Random Forest
 
-Find the questions at [this document](https://docs.google.com/document/d/1T7JLWuDtzOgEQ_OPSgsSiQdp5pd-nS5bKTdU3RR48Z4/edit?usp=sharing)
+Implement the Decision Tree, AdaBoost and Random Forest algorithm by using only NumPy, then train implemented model by the provided dataset and test the performance with testing data. 
 
-## HW3 Decision Tree, AdaBoost and Random Forest, due date: Nov. 15, 23:59
+### HW4 $~$ Support Vector Machine
 
-### Goals
-
-In this coding assignment, you need to implement the Decision Tree, AdaBoost and Random Forest algorithm by using only NumPy, then train your implemented model by the provided dataset and test the performance with testing data. Find the sample code and data on the GitHub page.
-
-Find the questions at [this document](https://docs.google.com/document/d/1ODV5FtIIn6fXjExL6cF8UOsQ-ctu53jObOAjrcSmqfw/edit?usp=sharing)
-
-## HW4 Support Vector Machine, due date: Nov. 29, 23:59
-
-### Goals
-
-In this coding assignment, you need to implement the Cross-validation and grid search by using only NumPy, then train the SVM model from scikit-learn by the provided dataset and test the performance with testing data. 
-
-Find the questions at [this document](https://docs.google.com/document/d/1YvMXHrcyxQrBHbGEZgPZbMVtXesSQuIm/edit?usp=sharing&ouid=106791491758005483971&rtpof=true&sd=true)
+Implement the Cross-validation and grid search by using only NumPy, then train the SVM model from scikit-learn by the provided dataset and test the performance with testing data. 
