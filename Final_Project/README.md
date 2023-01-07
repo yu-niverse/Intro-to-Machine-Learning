@@ -13,6 +13,6 @@ pip install -r requirements.txt
 ```
 
 ## Result Reproduction
-1. Download [weights.joblib](https://drive.google.com/file/d/1VpMwJZM-_5BqptHdmMkM6DwHA-XKV7fH/view?usp=sharing) and [109550182_Final_inference.ipynb]()
+1. Download [weights.joblib](https://drive.google.com/file/d/1VpMwJZM-_5BqptHdmMkM6DwHA-XKV7fH/view?usp=sharing) and [109550182_Final_inference.ipynb](Final_Project/109550182_Final_inference.ipynb)
 2. Change the path of test.csv and weights.joblib
-3. Execute [109550182_Final_inference.ipynb]() to get submission.csv
+3. Execute [109550182_Final_inference.ipynb](Final_Project/109550182_Final_inference.ipynb) to get submission.csv
