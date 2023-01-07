@@ -4,7 +4,7 @@
 ## Brief Introduction
 The task is to participate in [The August 2022 edition of the Tabular Playground Series Competition](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview). 
 
-The purpose of the competition is to predict individual product failures with their test results with past product testing results. I put my main focus on different feature engineering methods and chose to utilize the logistic regression model for the task. Find my implementation details [here]().
+The purpose of the competition is to predict individual product failures with their test results with past product testing results. I put my main focus on different feature engineering methods and chose to utilize the logistic regression model for the task. Find my implementation details [here](109550182_Final.pdf).
 
 ## Environment Setting
 To rebuild the environment : 
